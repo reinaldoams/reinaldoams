@@ -1,7 +1,7 @@
 Hi 👋 My name is Reinaldo Assis
 ===============================
 
-Web Developer
+Software Developer
 -------------
 
 Brazilian Web Developer excited to code and play music every day.
