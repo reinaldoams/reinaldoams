@@ -6,10 +6,10 @@ Software Developer
 
 Brazilian Web Developer excited to code and play music every day.
 
-* 🌍  I'm based in Brazil, Espírito Santo
-* ✉️  You can contact me at [reinaldoams@gmail.com](mailto:reinaldoams@gmail.com)
-* 🧠  I'm currently learning NextJS and expanding my knowledge in NodeJS
-* 🚀  I'm currently working with back-end JavaScript using [Enonic](http://enonic.com/)
+* 🌍  I'm based in Brazil, Espírito Santo;
+* ✉️  You can contact me at [reinaldoams@gmail.com](mailto:reinaldoams@gmail.com);
+* 🧠  I'm currently learning NextJS and expanding my knowledge in NodeJS;
+* 🚀  I'm currently working with back-end JavaScript using [Enonic](http://enonic.com/);
 
 ### Skills
 
