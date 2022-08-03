@@ -7,9 +7,10 @@ Software Developer
 Brazilian Web Developer excited to code and play music every day.
 
 * 🌍  I'm based in Brazil;
-* 🧠  I'm currently learning Typescript, improving my NextJS skills and expanding my knowledge in ExpressJS;
+* 📚  I'm currently learning Typescript and NextJS;
+* 🧠  Currently expanding my knowledge in ExpressJS and DevOps Tools;
 * 🚀  I'm currently working with back-end JavaScript using [Enonic](http://enonic.com/) / [NodeJS](https://nodejs.org/en/);
-* ✉️  You can contact me at [reinaldoams@gmail.com](mailto:reinaldoams@gmail.com).
+* 📩  You can contact me at [reinaldoams@gmail.com](mailto:reinaldoams@gmail.com).
 
 ### Skills
 
