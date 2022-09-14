@@ -9,7 +9,7 @@ Software Developer
 Lately, I've been:
 * 📚  Learning more about Typescript;
 * 🧠  Expanding my knowledge in NextJS and DevOps Tools;
-* 🚀  Working with back-end JavaScript using [Enonic](http://enonic.com/) / [NodeJS](https://nodejs.org/en/);
+* 🚀  Working with as a Fullstack JavaScript Developer using [Enonic](http://enonic.com/), [NodeJS](https://nodejs.org/en/), and [NextJS](https://nextjs.org/);
 
 Contact:
 * 📩  You can contact me at [reinaldoams@gmail.com](mailto:reinaldoams@gmail.com).
@@ -19,10 +19,10 @@ Contact:
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="46" height="46" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="46" height="46" alt="Typescript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="46" height="46" alt="React" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="46" height="46" alt="ReactJS" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="46" height="46" alt="NodeJS" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="46" height="46" alt="Next" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="46" height="46" alt="Express" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="46" height="46" alt="NextJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="46" height="46" alt="ExpressJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="46" height="46" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="46" height="46" alt="Firebase" /></a>
 <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/strapi.svg" width="46" height="46" alt="Strapi" /></a>
