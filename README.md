@@ -7,8 +7,8 @@ Software Developer
 💻  Brazilian Web Developer excited to code and play music every day;
 
 Lately, I've been:
-* 📚  Learning Typescript and NextJS;
-* 🧠  Expanding my knowledge in ExpressJS and DevOps Tools;
+* 📚  Learning more about Typescript;
+* 🧠  Expanding my knowledge in NextJS and DevOps Tools;
 * 🚀  Working with back-end JavaScript using [Enonic](http://enonic.com/) / [NodeJS](https://nodejs.org/en/);
 
 Contact:
