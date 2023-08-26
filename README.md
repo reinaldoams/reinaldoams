@@ -7,9 +7,9 @@ Software Developer
 💻  Brazilian Web Developer excited to code and play music every day;
 
 Lately, I've been:
-* 📚  Learning more about Typescript;
-* 🧠  Expanding my knowledge in NextJS and DevOps Tools;
-* 🚀  Working with as a Fullstack JavaScript Developer using [Enonic](http://enonic.com/), [NodeJS](https://nodejs.org/en/), and [NextJS](https://nextjs.org/);
+* 📚  Learning more about Strapi;
+* 🧠  Expanding my knowledge in NextJS + Typescript;
+* 🚀  Working with as a Fullstack JavaScript Developer in projects that use using [React](https://reactjs.org/), [NextJS](https://nextjs.org/), [Typescript](https://www.typescriptlang.org/), and [NodeJS](https://nodejs.org/en/);
 
 Contact:
 * 📩  You can contact me at [reinaldoams@gmail.com](mailto:reinaldoams@gmail.com).
