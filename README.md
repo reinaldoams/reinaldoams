@@ -20,16 +20,16 @@ Contact:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="46" height="46" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="46" height="46" alt="Typescript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="46" height="46" alt="ReactJS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="46" height="46" alt="NodeJS" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="46" height="46" alt="NextJS" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="46" height="46" alt="Tailwind" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" width="46" height="46" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="46" height="46" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="46" height="46" alt="ExpressJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="46" height="46" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="46" height="46" alt="Firebase" /></a>
 <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/strapi.svg" width="46" height="46" alt="Strapi" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="46" height="46" alt="Docker" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="46" height="46" alt="PostgreSQL" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="46" height="46" alt="Tailwind" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" width="46" height="46" alt="Bootstrap" /></a>
 </p>
 
 
