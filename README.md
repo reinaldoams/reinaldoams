@@ -30,6 +30,7 @@ Contact:
 <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/strapi.svg" width="46" height="46" alt="Strapi" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="46" height="46" alt="Docker" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="46" height="46" alt="PostgreSQL" /></a>
+<a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 
 
