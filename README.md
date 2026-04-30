@@ -6,10 +6,12 @@ Software Developer
 
 👨‍💻  Brazilian Web Developer excited to code and play music every day;
 
+<a href="https://reinaldo-portifolio-gamma.vercel.app/">My website :)</a>
+
 Lately, I've been:
 * 📚  Getting better in [Typescript](https://www.typescriptlang.org/) and [NextJS](https://nextjs.org/);
-* 🧠  Learning [Strapi](https://strapi.io/) and [Golang](https://go.dev/);
-* 🚀  Working with as a Fullstack JavaScript Developer in projects that use using [React](https://reactjs.org/), [NextJS](https://nextjs.org/), [Typescript](https://www.typescriptlang.org/), and [NodeJS](https://nodejs.org/en/).
+* 🧠  On my way to master [Claude](https://claude.ai/login), [Cursor](https://cursor.com/agents), and other AI tools;
+* 🚀  Working with as a Fullstack JavaScript Developer in projects that use using [React](https://reactjs.org/), [NextJS](https://nextjs.org/), [Typescript](https://www.typescriptlang.org/), and [NodeJS](https://nodejs.org/en/), alongside many AI tools.
 
 Contact:
 * 📩  You can contact me at [reinaldoams@gmail.com](mailto:reinaldoams@gmail.com).
