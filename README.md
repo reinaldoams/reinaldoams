@@ -17,28 +17,21 @@ Contact:
 ### Skills
 <table>
   <tr>
-    <td bgcolor="#ffffff"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="42"/></a></td>
     <td><a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="42"/></a></td>
     <td><a href="https://reactjs.org/"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="42"/></a></td>
     <td><a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="42"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://tailwindcss.com/"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="42"/></a></td>
-    <td><a href="https://getbootstrap.com/"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" width="42"/></a></td>
-    <td><a href="https://nodejs.org/en/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="42"/></a></td>
-    <td><a href="https://firebase.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="42"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.mongodb.com/"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="42"/></a></td>
-    <td><a href="https://strapi.io/"><img src="https://profilinator.rishav.dev/skills-assets/strapi.svg" width="42"/></a></td>
+    <td><a href="https://firebase.google.com/"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" width="42"/></a></td>
     <td><a href="https://www.postgresql.org/"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="42"/></a></td>
-    <td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/></a></td>
+    <td><a href="https://nodejs.org/en/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="42"/></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="42"/></a></td>
     <td><a href="https://jestjs.io/"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" width="42"/></a></td>
     <td><a href="https://nextjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="42"/></a></td>
-    <td><a href="https://expressjs.com/"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" width="42"/></a></td>
   </tr>
 </table>
 
