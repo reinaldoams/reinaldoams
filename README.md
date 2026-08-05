@@ -10,7 +10,7 @@ Software Developer
 
 Lately, I've been:
 * 📚  Getting better in [Typescript](https://www.typescriptlang.org/) and [NextJS](https://nextjs.org/);
-* 🧠  On my way to master [Claude](https://claude.ai/login), [Cursor](https://cursor.com/agents), and other AI tools;
+* 🧠  On my way to master AI tools Claude, Codex, and Cursor, and building performative AI workflows;
 * 🚀  Working with as a Fullstack JavaScript Developer in projects that use using [React](https://reactjs.org/), [NextJS](https://nextjs.org/), [Typescript](https://www.typescriptlang.org/), and [NodeJS](https://nodejs.org/en/), alongside many AI tools.
 
 Contact:
